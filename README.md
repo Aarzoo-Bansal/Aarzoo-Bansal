@@ -12,9 +12,9 @@
 ```javascript
 const aarzoo = {
     education: "MS Computer Science @ Northeastern University (Dec 2025)",
-    previousEducation: "BTech Electronics @ Jaypee University",
+    previousEducation: "BTech Information Technology @ Jaypee University",
     location: "San Francisco Bay Area",
-    experience: "5+ years in full-stack development",
+    experience: "5+ years in software development",
     interests: ["AI/ML", "Full-Stack Development", "Mobile Apps", "RAG Systems"],
     currentlyLearning: ["Advanced AI", "On-Device ML", "System Design"],
     askMeAbout: ["React", "Flutter", "Python", "AI Integration", "APIs"]
