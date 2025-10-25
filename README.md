@@ -22,7 +22,7 @@ const aarzoo = {
 
 ## 💼 Experience Highlights
 
-🏢 **AllayAI** - Software Development Engineer Intern (2024)  
+🏢 **AllayAI** - Software Development Engineer Intern (2025)  
 🏢 **KPMG Global Services** - Software Developer II (2021-2023)  
 🏢 **Infosys Limited** - Software Developer I (2018-2021)  
 
