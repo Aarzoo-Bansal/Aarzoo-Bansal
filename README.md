@@ -1,4 +1,4 @@
-# Hi there, I'm Aarzoo Bansal 👋
+# Hi there, I am Aarzoo Bansal 👋
 
 <div align="center">
   
@@ -35,8 +35,8 @@ const aarzoo = {
 ## 🚀 Featured Projects
 
 ### 🍽️ [DishCipher](https://github.com/Aarzoo-Bansal/DishCipher)
-Award-winning menu translation app using Gemini API | **HackBeanpot Winner 2024**  
-`Flutter` `Firebase` `Gemini API` `Google Cloud`
+Award-winning menu translation app using Gemini API | **NEURAI Hackathon Winner 2025**  
+`OCR` `Gemini API` `Google Cloud`
 
 ### 🤖 [Algorithms RAG System](https://github.com/Aarzoo-Bansal/AlgorithmsRAGSystem)
 Intelligent algorithm recommendation engine using RAG and vector embeddings  
