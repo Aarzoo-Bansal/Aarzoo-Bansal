@@ -116,8 +116,6 @@ Full-stack car configurator with dynamic pricing
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/Aarzoo-Bansal/count.svg)
-  
   💡 *"Building intelligent applications that bridge user experience with cutting-edge technology"*
   
 </div>
