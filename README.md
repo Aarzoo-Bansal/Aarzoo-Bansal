@@ -92,12 +92,11 @@ Full-stack car configurator with dynamic pricing
 
 - 🔭 Working on **DishDecode** - Chrome extension using Gemini Nano for menu translation
 - 🌱 Learning **On-Device AI** and **Advanced System Design**
-- 👨‍🏫 Teaching Assistant for **Algorithms** and **Mobile Development** at Northeastern
 - 👔 President of **NU AIG** - Leading AI/ML initiatives and workshops
 
 ## 🏆 Leadership & Community
 
-- 🎤 **President** - Northeastern Artificial Intelligence Group (NU AIG)
+- 🎤 **President** - Northeastern Algorithms Interactive Gaming (NU AIG)
 - 📚 **Teaching Assistant** - Algorithms & Mobile Development
 - 🌟 **Former IEEE Chairperson** - Technical leadership and event coordination
 
