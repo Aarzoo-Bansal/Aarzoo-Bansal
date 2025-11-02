@@ -28,10 +28,10 @@ const aarzoo = {
 🏢 **Infosys Limited** - Software Developer I (2018-2021)  
 
 **Key Achievements:**
+- 🏆 **Most Commercially Promising Project** - DishCipher (NEURAI Hackathon 2025)
 - 🏆 **Encore Rockstar Award** - KPMG (2023)
 - 🏆 **Rising Star Award** - KPMG (2022)
 - 🏆 **4x Insta Awards** - KPMG (2021-2023)
-- 🏆 **Most Commercially Promising Project** - DishCipher (HackBeanpot 2024)
 
 ## 🚀 Featured Projects
 
