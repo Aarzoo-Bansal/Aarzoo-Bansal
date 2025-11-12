@@ -45,7 +45,7 @@ Intelligent algorithm recommendation engine using RAG and vector embeddings
 
 ### 📚 [Study Buddy](https://github.com/Aarzoo-Bansal/StudyBuddyApp)
 Collaborative study platform with real-time features  
-`React` `Node.js` `PostgreSQL` `WebSockets`
+`Java` `SQLite` `Open AI`
 
 ### 🚗 [BoltBucket](https://github.com/Aarzoo-Bansal/BoltBucket)
 Full-stack car configurator with dynamic pricing  
