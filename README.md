@@ -16,8 +16,7 @@ const aarzoo = {
     location: "San Francisco Bay Area",
     experience: "5+ years in software development",
     interests: ["AI/ML", "Full-Stack Development", "Mobile Apps", "RAG Systems"],
-    currentlyLearning: ["Advanced AI", "On-Device ML", "System Design"],
-    askMeAbout: ["React", "Flutter", "Python", "AI Integration", "APIs"]
+    currentlyLearning: ["Advanced AI", "On-Device ML", "System Design"]
 };
 ```
 
