@@ -36,7 +36,7 @@ const aarzoo = {
 
 ### 🍽️ [DishCipher](https://github.com/Aarzoo-Bansal/DishCipher)
 Award-winning menu translation app using Gemini API | **NEURAI Hackathon Winner 2025**  
-`OCR` `Gemini API` `Google Cloud`
+`OpenAI Vision API` `Node.js` `Express`
 
 ### 🤖 [Algorithms RAG System](https://github.com/Aarzoo-Bansal/AlgorithmsRAGSystem)
 Intelligent algorithm recommendation engine using RAG and vector embeddings  
