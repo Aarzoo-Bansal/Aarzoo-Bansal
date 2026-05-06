@@ -87,12 +87,6 @@ Full-stack car configurator with dynamic pricing
 
 </div>
 
-## 🎯 Current Focus
-
-- 🔭 Working on **DishDecode** - Chrome extension using Gemini Nano for menu translation
-- 🌱 Learning **On-Device AI** and **Advanced System Design**
-- 👔 President of **NU AIG** - Leading AI/ML initiatives and workshops
-
 ## 🏆 Leadership & Community
 
 - 🎤 **President** - Northeastern Algorithms Interactive Gaming (NU AIG)
